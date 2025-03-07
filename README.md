@@ -13,7 +13,7 @@ The first step in this project is to review the business request email from Ana,
 
 ## Step 2: Setting Up and cleaning the data
 
-To begin the analysis, we need to set up our data environment by installing SQL Server Management Studio (SSMS) and loading the AdventureWorks databases. This will provide both structured data warehouse (post-restructured) and lightweight raw (pre-restructured) data for our project. We are going to look at 3 tables, the customer table, the Date, and the product table. We will clean the data to only pull columns that we need for the business request. 
+To begin the analysis, we will set up our data environment by installing SQL Server Management Studio (SSMS) and loading the AdventureWorks databases. This will provide access to both the restructured data warehouse (post-restructured) and the lightweight raw data (pre-restructured). For this phase of the project, we will focus on three key tables: the Customer table, the Date table, and the Product table. We will clean the data by selecting only the relevant columns needed to address the specific business requests. 
 
 ![5  Customer table top 1000 rows before cleaning](https://github.com/user-attachments/assets/2ff95739-dbba-4143-9e0c-97052f0248c9)
 ![2 cleaned](https://github.com/user-attachments/assets/3aaa9c8b-d6e5-48bc-903a-6926bb1871f9)
